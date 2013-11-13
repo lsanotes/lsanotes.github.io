@@ -1,4 +1,4 @@
-lsanotes.github.com
+sources of lsanotes.github.io
 ===================
 
-Monkey Monk
+--Just Simple html pages--
