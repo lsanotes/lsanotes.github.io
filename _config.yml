@@ -1,8 +1,9 @@
 # Site settings
-title: LOOKING FOR PEACE
+title: LOVE & PEACE
 email: lsanotes@live.com
+theme: jekyll-theme-minimal
 description: > # this means to ignore newlines until "baseurl:"
-  Peace in life
+  May mercy, peace, and love be multiplied to you.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lsanotes.github.io" # the base hostname & protocol for your site
 twitter_username: lsanotes
